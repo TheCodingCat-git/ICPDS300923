@@ -21,7 +21,7 @@ class Employee:
         return f"Name: {self.name}, DOB: {self.dob}, Height: {self.height}, City: {self.city}, State: {self.state}"
 
 # Read the data from the JSON file
-with open('Assignment 6\employee.json', 'r') as file:
+with open('employee.json', 'r') as file:
     data = json.load(file)
 
 employee_objects = []
