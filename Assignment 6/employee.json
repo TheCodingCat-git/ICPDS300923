@@ -1,0 +1,40 @@
+{
+    "employees": [
+      {
+        "Name": "Rajesh Kumar",
+        "DOB": "1990-05-12",
+        "Height": "5'9\"",
+        "City": "Mumbai",
+        "State": "Maharashtra"
+      },
+      {
+        "Name": "Priya Sharma",
+        "DOB": "1988-09-28",
+        "Height": "5'5\"",
+        "City": "Delhi",
+        "State": "Delhi"
+      },
+      {
+        "Name": "Amit Patel",
+        "DOB": "1995-07-15",
+        "Height": "5'11\"",
+        "City": "Ahmedabad",
+        "State": "Gujarat"
+      },
+      {
+        "Name": "Anjali Singh",
+        "DOB": "1987-03-24",
+        "Height": "5'7\"",
+        "City": "Kolkata",
+        "State": "West Bengal"
+      },
+      {
+        "Name": "Vikram Joshi",
+        "DOB": "1992-11-03",
+        "Height": "6'0\"",
+        "City": "Bangalore",
+        "State": "Karnataka"
+      }
+    ]
+  }
+  
